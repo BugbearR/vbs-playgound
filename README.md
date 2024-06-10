@@ -1,2 +1,2 @@
-# vbs-playgound
+# vbs-playground
 VBScript playground
